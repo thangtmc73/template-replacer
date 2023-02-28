@@ -1,0 +1,2 @@
+# Template Replacer
+This is a tool to config multiple contents for multiple templates with an visual user interface. Someday, in work, I want to update contents for multiple complicated templates, so the tool was born.
